@@ -13,6 +13,7 @@
 		A09EFA1C27EEC7B30029A765 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A09EFA1B27EEC7B30029A765 /* Preview Assets.xcassets */; };
 		A09EFA2327EEC7D10029A765 /* XOButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09EFA2227EEC7D10029A765 /* XOButton.swift */; };
 		A09EFA2527EF7CAC0029A765 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09EFA2427EF7CAB0029A765 /* Utils.swift */; };
+		A0E7363A27F6EDAD00AD95F4 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E7363927F6EDAC00AD95F4 /* Alerts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A09EFA1B27EEC7B30029A765 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A09EFA2227EEC7D10029A765 /* XOButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XOButton.swift; sourceTree = "<group>"; };
 		A09EFA2427EF7CAB0029A765 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		A0E7363927F6EDAC00AD95F4 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				A09EFA1427EEC7B00029A765 /* tic_tac_toeApp.swift */,
 				A09EFA1627EEC7B00029A765 /* ContentView.swift */,
+				A0E7363927F6EDAC00AD95F4 /* Alerts.swift */,
 				A09EFA2427EF7CAB0029A765 /* Utils.swift */,
 				A09EFA2227EEC7D10029A765 /* XOButton.swift */,
 				A09EFA1827EEC7B30029A765 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A09EFA1727EEC7B00029A765 /* ContentView.swift in Sources */,
+				A0E7363A27F6EDAD00AD95F4 /* Alerts.swift in Sources */,
 				A09EFA1527EEC7B00029A765 /* tic_tac_toeApp.swift in Sources */,
 				A09EFA2327EEC7D10029A765 /* XOButton.swift in Sources */,
 				A09EFA2527EF7CAC0029A765 /* Utils.swift in Sources */,
